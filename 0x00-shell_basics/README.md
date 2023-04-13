@@ -17,3 +17,7 @@ ls -l
 Display current directory contents, including hidden files
 #!/bin/bash
 ls -al
+
+Display current directory contents
+#!/bin/bash
+ls -lan

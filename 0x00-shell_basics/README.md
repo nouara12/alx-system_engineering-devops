@@ -9,3 +9,7 @@ ls
 Changes the working directory to the user’s home directory
 #!/bin/bash
 cd ~
+
+Display current directory contents in a long format
+#!/bin/bash
+ls -l
